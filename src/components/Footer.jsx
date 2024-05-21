@@ -11,17 +11,15 @@ const Footer = () => {
         <div className="flex gap-6 order-1 sm:order-2 w-full sm:w-auto justify-center sm:justify-start">
           <a
             className="hover:text-zinc-100 transition duration-300"
-            href="https://qodematrix.com/docs/motion-art-for-elementor/"
-            target="_blank"
+            
           >
-            Documentation
+            Chat With Us
           </a>
           <a
             className="hover:text-zinc-100 transition duration-300"
-            href="https://support.qodematrix.com/login"
-            target="_blank"
+            
           >
-            Support
+            Help Desk
           </a>
         </div>
       </div>
