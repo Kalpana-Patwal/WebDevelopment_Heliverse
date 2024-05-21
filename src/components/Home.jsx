@@ -133,8 +133,8 @@ const Home = () => {
         </a>
         <a
           className="sm:block hidden bg-yellow-400 text-white px-8 py-3 font-medium rounded-lg inline-block h-fit border-2 hover:border-white hover:text-white hover:bg-transparent duration-300 ease-in-out"
-          href="https://codecanyon.net/item/motion-art-for-elementor-wordpress-plugin/48826891"
-          target="_blank">
+          
+          >
           Buy Now..
         </a>
       </div>
